@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -24,8 +24,5 @@ namespace RimAlone
             this._parentChunk = parent;
             _HexCellCoordinate = new Coordinate(x, y);
         }
-
-
-
     }
 }
